@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Evergreen Hollows - StarryNox</title>
+</head>
+<body>
+  <h1>Evergreen Hollows</h1>
+
+  <p><strong>World:</strong> Neveah</p>
+  <p><strong>Region Type:</strong> Forest / Plushlands</p>
+
+  <h2>Overview</h2>
+  <p>
+    A forest region shaped around comfort and safety. The Hollows are calm, soft, and lived-in—like
+    cozy spaces inside trees with blue leaves and golden wood. This region is strongly associated with plushies and toys.
+  </p>
+
+  <h2>Notable Traits</h2>
+  <ul>
+    <li>Evergreen forest atmosphere</li>
+    <li>Hollow trunks and sheltered spaces</li>
+    <li>Comfort-first “home” energy</li>
+  </ul>
+
+  <h2>Related</h2>
+  <ul>
+    <li><a href="location-index.html">All Locations</a></li>
+    <li><a href="../characters/omi.html">Omi</a></li>
+    <li><a href="../characters/doctor.html">Doctor</a></li>
+  </ul>
+
+  <p><a href="../index.html">Return Home</a></p>
+</body>
+</html>
